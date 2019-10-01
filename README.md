@@ -1,2 +1,5 @@
 # ASP.NET_Core-Angular_project
-#Testing Version Control -- All good
+#Online Dating Profile
+
+Technologies used:
+ASP.NET Core Web API
