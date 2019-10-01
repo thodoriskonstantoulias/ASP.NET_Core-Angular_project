@@ -3,3 +3,4 @@
 
 Technologies used:
 ASP.NET Core Web API
+SQLite
